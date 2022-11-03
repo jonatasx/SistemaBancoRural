@@ -1,0 +1,8 @@
+C:\Users\jonat\Documents\checklistOOP3\SistemaBancoRural\bin\Debug\SistemaBancoRural.exe.config
+C:\Users\jonat\Documents\checklistOOP3\SistemaBancoRural\bin\Debug\SistemaBancoRural.exe
+C:\Users\jonat\Documents\checklistOOP3\SistemaBancoRural\bin\Debug\SistemaBancoRural.pdb
+C:\Users\jonat\Documents\checklistOOP3\SistemaBancoRural\obj\Debug\SistemaBancoRural.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\checklistOOP3\SistemaBancoRural\obj\Debug\SistemaBancoRural.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Documents\checklistOOP3\SistemaBancoRural\obj\Debug\SistemaBancoRural.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\checklistOOP3\SistemaBancoRural\obj\Debug\SistemaBancoRural.exe
+C:\Users\jonat\Documents\checklistOOP3\SistemaBancoRural\obj\Debug\SistemaBancoRural.pdb
